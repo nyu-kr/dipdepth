@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this code or these results, cite the paper."
+title: "DipDepth: Sleep Apnea Beyond the 3% Rule"
+type: software
+version: "1.0.0"
+date-released: 2026-11-24
+authors:
+  - family-names: "Atallah"
+    given-names: "Kris"
+    affiliation: "New York University"
+license: MIT
+repository-code: "https://github.com/nyu-kr/dipdepth"
+keywords:
+  - sleep apnea
+  - pulse oximetry
+  - sparse deconvolution
+  - marked point process
+  - state-space model
+preferred-citation:
+  type: article
+  title: "DipDepth: Sleep Apnea Beyond the 3% Rule"
+  authors:
+    - family-names: "Atallah"
+      given-names: "Kris"
+      affiliation: "New York University"
+  year: 2026
